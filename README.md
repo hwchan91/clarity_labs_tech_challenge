@@ -3,6 +3,10 @@
 My solutions for the tech challenge
 
 ## Usage
+
+```
+bundle install
+```
 navigate to lib for the tasks
 
 ```
